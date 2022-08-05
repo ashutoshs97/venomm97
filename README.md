@@ -1,7 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Web Development, Java and Graphic Designing<br> 📫 How to reach me: ✉️ : ashutosh.ssv@gmail.com<br><br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234954AE&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Mvuqupuecf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaayyrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-sharma-106659113/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashuuphotography/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ashutosh-Sharma-675) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/VENOMs97) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shaayyrr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCDNiZwdkat5VqG5kUV89rkA) 
@@ -39,6 +38,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=venomm97&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ![Snake animation](https://github.com/carlosdancr/carlosdancr/blob/output/github-contribution-grid-snake.svg)
-
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ashutoshs17)   
