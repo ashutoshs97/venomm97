@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="https://ashu97.netlify.app/" width="22px" src="images/globe.svg" href="https://ashu97.netlify.app/"/>
+[<img align="left" alt="dansiegel.net" width="22px" src="images/globe.svg" />][https://ashu97.netlify.app/]
 <img align="left" alt="dansiegel | YouTube" width="22px" src="images/youtube.svg" />
 <img align="left" alt="DanJSiegel | Twitter" width="22px" src="images/twitter.svg" />
 <img align="left" alt="DanSiegel | LinkedIn" width="22px" src="images/linkedin.svg" />
