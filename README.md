@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning<br>💬 Ask me about<br>📫 How to reach me: ✉️ : ashutosh.ssv@gmail.com<br><br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
-![](https://visitcount.itsvg.in/api?id=Krish-bhardwaj&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Krish-bhardwaj&icon=0&color=0)(https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
