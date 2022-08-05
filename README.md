@@ -39,8 +39,5 @@
 
 ![Snake animation](https://github.com/carlosdancr/carlosdancr/blob/output/github-contribution-grid-snake.svg)
 
----
-[![](https://visitcount.itsvg.in/api?id=venomm97&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ashutoshs17)   
