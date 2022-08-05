@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>💬 Ask me about<br>📫 How to reach me: ✉️ : ashutosh.ssv@gmail.com<br><br>
+🌱 I’m currently learning Web Development, Java and Graphic Designing<br> 📫 How to reach me: ✉️ : ashutosh.ssv@gmail.com<br><br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
 ## 🌐 Socials:
@@ -37,11 +37,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=venomm97&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=venomm97&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+![Snake animation](https://github.com/carlosdancr/carlosdancr/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=venomm97&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ashutoshs17) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ashutoshs17)   
