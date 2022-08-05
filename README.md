@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning Web Development, Java and Graphic Designing<br> 📫 How to reach me: ✉️ : ashutosh.ssv@gmail.com<br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=venomm97&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="VENOMM97" /> </p>
+<img src="https://komarev.com/ghpvc/?username=venomm97&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="VENOMM97" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=2000&lines=Web+Developer;Photographer;Videographer;Video+Editor;Music+Editor;Graphic+Designer)](https://git.io/typing-svg)
 
