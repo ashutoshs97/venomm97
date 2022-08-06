@@ -1,15 +1,15 @@
 ### Welcome to Ashutosh Sharma's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+<p align = "right"><img src="https://komarev.com/ghpvc/?username=venomm97&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="VENOMM97" /> </p>
 ---
 
 # 💫 About Me:
 🌱 I’m currently learning Web Development, Java and Graphic Designing<br> 📫 How to reach me: ✉️ : ashutosh.ssv@gmail.com<br><br>
-<img src="https://komarev.com/ghpvc/?username=venomm97&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="VENOMM97" /> </p><br><br>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=2000&lines=Web+Developer;Photographer;Videographer;Video+Editor;Music+Editor;Graphic+Designer)](https://git.io/typing-svg)<br><br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/Mvuqupuecf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shaayyrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-sharma-106659113/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/ashuuphotography/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Ashutosh-Sharma-675) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/VENOMs97) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shaayyrr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/UCDNiZwdkat5VqG5kUV89rkA) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/Mvuqupuecf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shaayyrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-sharma-106659113/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/ashuuphotography/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Ashutosh-Sharma-675) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/VENOMs97) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shaayyrr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCDNiZwdkat5VqG5kUV89rkA) 
 
 # 💻 Tech Stack:
 
