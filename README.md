@@ -3,7 +3,7 @@
 ---
 
 # 💫 About Me:
-🌱 I’m currently learning Web Development, Java and Graphic Designing<br> 📫 How to reach me: [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh.ssv@gmail.com)<br><br>
+🌱 I’m currently learning Web Development, Java and Graphic Designing<br> 📫 How to reach me:   [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh.ssv@gmail.com)<br><br>
 <img src="https://komarev.com/ghpvc/?username=venomm97&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="VENOMM97" /> </p><br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=2000&lines=Web+Developer;Photographer;Videographer;Video+Editor;Music+Editor;Graphic+Designer)](https://git.io/typing-svg)<br><br>
