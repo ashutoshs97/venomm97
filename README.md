@@ -1,5 +1,5 @@
-### Welcome to Ashutosh Sharma's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<p align = "right"><img src="https://komarev.com/ghpvc/?username=venomm97&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="VENOMM97" /> </p>
+### Welcome to Ashutosh Sharma's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><p align = "right"><img src="https://komarev.com/ghpvc/?username=venomm97&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="VENOMM97" /></p>
+
 ---
 
 # 💫 About Me:
